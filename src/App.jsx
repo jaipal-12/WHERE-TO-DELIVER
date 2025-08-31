@@ -106,7 +106,7 @@ const App = () => {
                     <h1 className="text-2xl font-bold text-blue-600">Where-To-Deliver</h1>
                     <nav className="hidden md:flex space-x-6 text-gray-600 font-medium">
                         <a href="#features" className="hover:text-blue-600">Features</a>
-                        <a href="#tutorial" className="hover:text-blue-600">Tutorial</a>
+{/*                         <a href="#tutorial" className="hover:text-blue-600">Tutorial</a> */}
                         <a href="#contact" className="hover:text-blue-600">Contact</a>
                     </nav>
                 </header>
@@ -150,7 +150,7 @@ const App = () => {
                 </main>
 
                 {/* YouTube CTA Section */}
-                <section id="tutorial" className="bg-white py-12 px-6 text-center shadow-inner">
+{/*                 <section id="tutorial" className="bg-white py-12 px-6 text-center shadow-inner">
                     <div className="max-w-3xl mx-auto">
                         <h3 className="text-3xl font-bold mb-4">Want to Learn How It Works?</h3>
                         <p className="text-gray-600 mb-6">
@@ -165,7 +165,7 @@ const App = () => {
                             📺 Watch on YouTube
                         </a>
                     </div>
-                </section>
+                </section> */}
 
                 {/* Footer */}
                 <footer className="w-full bg-gray-900 text-white py-8 px-6 mt-12">
